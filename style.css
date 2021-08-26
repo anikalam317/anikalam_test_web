@@ -1,0 +1,27 @@
+*
+{
+  marging:0;
+  padding:0;
+  box-sizing: border-box;
+}
+body
+{
+  background: #efefef;
+}
+.profile_img
+{
+  width:22%;
+  float: right;
+}
+.profile_img img
+{
+widht: 50%;
+height: 60%;
+}
+.profile_info
+{float: inline-start;
+margin-left: 2px}
+.media img
+{height: 25px;}
+.profile_info h2
+{height: 2%;}
